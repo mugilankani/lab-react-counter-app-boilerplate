@@ -1,0 +1,14 @@
+.functions{
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+}
+#AppName{
+  text-align: center;
+}
+.counter{
+  align-items: center;
+  display: flex;
+  justify-content: center;
+  /* display: flex; */
+}
